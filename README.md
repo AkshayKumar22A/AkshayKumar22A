@@ -3,7 +3,6 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshay Kumar
 ====================================================================================================================================
-
 Currently working as Technical Engineer at VMware
 -------------------------------------------------
 </div>
@@ -25,7 +24,8 @@ High performing professional with 2.5 Years of experience delivering high impact
 <p align="left"> <a href="https://www.github.com/AkshayKumar22A" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/akshay-kumar-22032001/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
-
+![Visitor Count](https://komarev.com/ghpvc/?username=AkshayKumar22A)
+<br>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AkshayKumar22A"><img src="https://github-readme-stats.vercel.app/api?username=AkshayKumar22A&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AkshayKumar22A's GitHub stats" /></a>
