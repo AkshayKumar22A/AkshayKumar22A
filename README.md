@@ -3,7 +3,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshay Kumar
 ====================================================================================================================================
-Currently working as Technical Engineer at VMware
+Currently working as Software Devloper at Teradata
 -------------------------------------------------
 </div>
 High performing professional with 2.5 Years of experience delivering high impact work in the Data Analyst interstudy and Customer Facing role. Skilled in Strong written and verbal communication skill to facilitate collaborative achievement of high priority goals. Confident in ability to adapt in fast-paced settings and leveraging skills in analytical techniques, Risk Assessment and Operational Research to enable team success. Committed to lifelong learning and going the extra mile to prioritize and convert Idea improvement.
